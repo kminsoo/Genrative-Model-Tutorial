@@ -14,7 +14,7 @@ $> pip install -r requirements.txt
 The code has been tested on python 3.7.x
 
 ## Start Practice
-Type the below command and open the Colab_Tutorial_Exercise_easy.ipynb
+Type the below command and open the Colab_Tutorial_Exercise.ipynb
 
 ```
 $> jupyter notebook
